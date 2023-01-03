@@ -1,0 +1,9 @@
+{
+    "url": "http://92.119.56.119/swagger_test/test.yaml",
+    "urls": [
+        {
+            "url": "http://92.119.56.119/swagger_test/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
