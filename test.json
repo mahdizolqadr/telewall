@@ -1,8 +1,8 @@
 {
-    "url": "http://92.119.56.119/swagger_test/test.yaml",
+    "url": "https://mahdizolqadr.github.io/telewall/test.yaml",
     "urls": [
         {
-            "url": "http://92.119.56.119/swagger_test/test.yaml",
+            "url": "https://mahdizolqadr.github.io/telewall/test.yaml",
             "name": "Foo"
         }
     ]
